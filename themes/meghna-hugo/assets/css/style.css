@@ -460,6 +460,16 @@ a:hover {
   background-attachment: fixed;
 }
 
+
+@media (pointer: coarse) {
+   .bg-2 {
+  	background-attachment: initial;
+  	background-position: center center;
+  	background-repeat: no-repeat;
+ 	background-size: small;
+   }
+}
+
 .hero-area {
   background-size: cover;
   height: 100vh;
