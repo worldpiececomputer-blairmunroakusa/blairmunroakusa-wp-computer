@@ -176,6 +176,12 @@ a:hover {
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media (pointer: coarse) {
+   .parallax-section {
+       background-attachment: initial;
+       background-size: small;
+   }
+}
 
 .no-padding {
   padding: 0 !important;
