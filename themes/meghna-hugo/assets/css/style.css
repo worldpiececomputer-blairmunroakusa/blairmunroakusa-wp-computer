@@ -289,6 +289,13 @@ a:hover {
   background-size: cover;
 }
 
+@media (pointer: coarse) {
+   .call-to-action {
+       background-attachment: initial;
+       background-size: small;
+   }
+}
+
 .preloader {
   position: fixed;
   top: 0;
@@ -651,7 +658,7 @@ a:hover {
 
 @media (pointer: coarse) {
    .call-to-action {
-       background-attachment: fixed;
+       background-attachment: initial;
        background-size: small;
    }
 }
