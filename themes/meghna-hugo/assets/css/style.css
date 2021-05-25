@@ -184,6 +184,16 @@ a:hover {
   background-size: cover;
 }
 
+
+@media (pointer: coarse) {
+   .parallax-section {
+  	background-attachment: initial !important;
+  	background-position: center center;
+  	background-repeat: no-repeat;
+ 	 background-size: small;
+   }
+}
+
 .no-padding {
   padding: 0 !important;
 }
