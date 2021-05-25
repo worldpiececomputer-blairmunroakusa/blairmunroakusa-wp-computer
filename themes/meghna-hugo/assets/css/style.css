@@ -652,7 +652,7 @@ a:hover {
 @media (pointer: coarse) {
    .call-to-action {
        background-attachment: initial;
-       background-size: auto;
+       background-size: small;
    }
 }
 
