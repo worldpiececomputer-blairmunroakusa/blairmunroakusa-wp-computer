@@ -653,6 +653,7 @@ a:hover {
    .call-to-action {
        background-attachment: fixed;
        background-size: small;
+       z-index: -1;
    }
 }
 
