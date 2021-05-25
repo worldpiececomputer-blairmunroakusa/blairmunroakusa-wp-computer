@@ -79,11 +79,18 @@ a:hover {
   text-decoration: none;
   outline: 0;
 }
+/* fixed image */
+.fixed-img {
+  position: fixed;
+  z-index: -1;
+}
 
 a:focus,
 a:hover {
   color: #6CB670;
 }
+
+
 
 .kill-margin-bottom {
   margin-bottom: 0 !important;
@@ -175,12 +182,6 @@ a:hover {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-@media (pointer: coarse) {
-   .parallax-section {
-       background-attachment: initial;
-       background-size: small;
-   }
 }
 
 .no-padding {
@@ -288,12 +289,6 @@ a:hover {
   background-size: cover;
 }
 
-@media (pointer: coarse) {
-   .parallax-section {
-       background-attachment: initial;
-       background-size: small;
-   }
-}
 .preloader {
   position: fixed;
   top: 0;
@@ -653,6 +648,14 @@ a:hover {
 .call-to-action {
   background-attachment: fixed;
 }
+
+@media (pointer: coarse) {
+   .call-to-action {
+       background-attachment: initial;
+       background-size: small;
+   }
+}
+
 
 .call-to-action h2 {
   font-weight: 700;
