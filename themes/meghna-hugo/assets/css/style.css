@@ -282,10 +282,10 @@ a:hover {
   background-size: cover;
 }
 
-@media (hover: none) {
+@media (pointer: coarse) {
    .parallax-section {
        background-attachment: initial;
-       background-size: auto;
+       background-size: small;
    }
 }
 .preloader {
