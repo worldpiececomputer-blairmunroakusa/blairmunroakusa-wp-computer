@@ -285,6 +285,7 @@ a:hover {
 @media (hover: none) {
    .parallax-section {
        background-attachment: initial;
+       background-size: auto;
    }
 }
 .preloader {
