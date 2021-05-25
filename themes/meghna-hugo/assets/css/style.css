@@ -290,7 +290,7 @@ a:hover {
 }
 
 @media (pointer: coarse) {
-   .call-to-action {
+   .parallax-section {
        background-attachment: initial;
        background-size: small;
    }
