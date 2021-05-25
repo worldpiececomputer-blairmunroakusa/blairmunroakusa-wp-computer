@@ -282,6 +282,11 @@ a:hover {
   background-size: cover;
 }
 
+@media (hover: none) {
+   .parallax-section {
+       background-attachment: initial;
+   }
+}
 .preloader {
   position: fixed;
   top: 0;
