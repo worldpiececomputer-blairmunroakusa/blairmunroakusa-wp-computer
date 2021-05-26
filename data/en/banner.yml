@@ -4,9 +4,12 @@ banner:
   bg_image_webp : "images/backgrounds/powerlineclouds.webp"
   bg_image : "images/backgrounds/powerlineclouds.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "THIS IS IDEA ART."
+  content1 : "_WELCOME TO MY WORLD PEACE LAB!_"
+  content2 : "This entity ( blairmunroakusa, LLC ) is licensed in the State of Alaska to do ANY LAWFUL business under primary NAICS code 711510: Independent Artists, Writers, and Performers."
+  content3 : "THE PURPOSE OF THIS ENTERPRISE IS TO ORCHESTRATE THE CONSTRUCTION OF THE WORLD'S LARGEST SUPERCOMPUTER."
+  content4 : "( a time machine )"
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "Hi!..."
+    link : "#about"

@@ -15,7 +15,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #ffffff;
 }
 
 p {
@@ -510,33 +510,51 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
-  color: #fff;
-  text-transform: capitalize;
+  font-size: 60px;
+  color: #57cbcc;
+  text-transform: none;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
-    font-size: 60px;
+    font-size: 40px;
+    margin-bottom: 5px;
+  }
+}
+
+.hero-area .block h2 {
+  font-size: 30px;
+  color: #57cbcc;
+  text-transform: none;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  .hero-area .block h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
   }
 }
 
 .hero-area .block p {
-  color: #fff;
-  font-size: 20px;
-  width: 70%;
+  color: #ff0015;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
   margin: 0 auto;
 }
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #fff;
+  border-color: #57cbcc;
+  color: #ff0015;
   padding: 14px 50px;
   font-size: 18px;
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 30px;
+  font-weight: 700;
   letter-spacing: 1px;
 }
 

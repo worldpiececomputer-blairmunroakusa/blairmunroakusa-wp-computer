@@ -1,16 +1,24 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : ...I'm Blair
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : 
+    title : I invented a time machine.
+    content : I'm very serious about my time machine; it's all I care about. You and I might not think of the same thing when we think 'time machine', and that's okay. My version is probably a little more ..abstract. That's why for now I use art as my primary vehicle to network, fundraise, and communicate design plans to people who want to help make the time machine real.
+    address : www.google.com
+    link : test link
+
+  - icon :
+    title : 
+    content :
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : It's a 'World Piece Computer'.
+    content : The computer is called a World Piece Computer. It processes all the pieces. The resulting process is a 'World Peace Process'.
+    link :
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
+    title : "The Universal Peace Computer."
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link :
