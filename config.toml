@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://blairmunroakusawpcomputer.netlify.app/"
+baseURL = "https://blairmunroakusa.wp.computer/"
 title = "Meghna"
 theme = "meghna-hugo"
 themesDir = "themes"
