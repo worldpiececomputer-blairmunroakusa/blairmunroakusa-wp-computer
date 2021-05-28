@@ -78,8 +78,8 @@ url = "#contact"
 weight = 7
 
 [[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
+name = "HELP ME!"
+url = "https://help.blairmunroakusa.wp.computer/"
 weight = 8
 
 
@@ -186,7 +186,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; Blair Munro 2021 blairmunroakusa, LLC, managed by World Peace Labs, inc :: generated using HUGO :: theme credit == [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -195,4 +195,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; Blair Munro 2021 blairmunroakusa, LLC, managed by World Peace Labs, inc :: generated using HUGO :: theme credit == [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

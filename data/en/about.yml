@@ -1,24 +1,28 @@
-############################# About ###################################
+############################ About ###################################
 about:
   enable : true
   title : ...I'm Blair
   about_item :
   - icon : 
-    title : I invented a time machine.
-    content : I'm very serious about my time machine; it's all I care about. You and I might not think of the same thing when we think 'time machine', and that's okay. My version is probably a little more ..abstract. That's why for now I use art as my primary vehicle to network, fundraise, and communicate design plans to people who want to help make the time machine real.
-    address : www.google.com
-    link : test link
+    title : "I invented a time machine."
+    content : "I'm very serious about my time machine; it's all I care about. You and I might not think of the same thing when we think 'time machine', and that's okay. My version is probably a little more ..abstract. That's why for now I use art as my primary vehicle to network, fundraise, and communicate design plans to people who want to help make the time machine something we can scale and distribute."
+    address :
+    link :
 
   - icon :
-    title : 
-    content :
+    title : "Here's how it works:"
+    content : "The time machine allows the operator to revisit the past, to review and learn from personal experience, and the experience of others. Taking what the operator learned, they can then use the time machine to explore possible futures. As the operator travels back and forth between past and future, they stay centered about the present moment. Within the present moment, the time machine allows the operator to traverse imaginary timespace to explore possible present actions. After committing to the desired future, and determining what present actions are available in the moment, the time machine operator positions their present direction to move forward into the desired future."
+    address :
+    link :
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : It's a 'World Piece Computer'.
     content : The computer is called a World Piece Computer. It processes all the pieces. The resulting process is a 'World Peace Process'.
+    address :
     link :
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : "The Universal Peace Computer."
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    address :
     link :

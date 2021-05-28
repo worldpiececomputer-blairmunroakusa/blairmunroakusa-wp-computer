@@ -1,20 +1,20 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contact Me!
+  subtitle : Contact Protocols
+  content : "I am a very busy body, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please abide by the following protocols:"  
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Anchorage, Alaska, USA, Planet Earth, Solar System, Orion–Cygnus Arm, Milky Way Galaxy, The Local Group, The Visible Universe"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: hello@meghna.com"
