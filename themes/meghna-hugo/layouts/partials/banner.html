@@ -21,8 +21,12 @@
 		<p>{{ .content4 }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+		<a href="{{ .link1 }}" target="_blank" class="btn btn-transparent page-scroll">{{ .label1 }}</a>
 		{{ end }}
+		{{ with .button }}
+		<a href="{{ .link2 }}" target="_blank" class="btn btn-transparent page-scroll">{{ .label2 }}</a>
+		{{ end }}
+		
 		{{ end }}
 	</div>
 </section>

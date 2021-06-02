@@ -17,18 +17,22 @@ So What's My Deal?
 
 I am a creator. Following are 'I am' statements that define my brand of creationism:
 
-.   I am a conceptual artist.
+ART
+.   I am a conceptual peace artist.
 v
+MASTERPEACE
 ..  I am an inventor.
 ..  I am an educator.
 ..  I am an engineer (electrical by degree).
 ..  I am a scientist (theoretical physicist by self-study).
 ..  I am a mathematician (Gaussian manifold by self-identification).
 v
+GOAL
 ... I am a diplomat.
 ... I am a world-builder.
 ... I am a universal peace advocate.
 v
+OUTCOME
 >>> I am process-oriented.
 
 . ART

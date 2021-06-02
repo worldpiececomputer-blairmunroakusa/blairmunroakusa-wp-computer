@@ -4,13 +4,15 @@ banner:
   bg_image_webp : "images/backgrounds/powerlineclouds.webp"
   bg_image : "images/backgrounds/powerlineclouds.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "THIS IS CONCEPTUAL PEACE ART."
-  content0 : "I am a creator---a conceptual peace artist. My art takes concepts from  mathematics, physics, science, and applies them by analogy in an educational manner to better sense of Human experience. I try to make this aesthetic and functional in a way that liberates useful technical constructs to empower non-technical people to improve their lives on their own terms (and in a fun and interesting way, by exploring art.)"
-  content1 : "_WELCOME TO MY WORLD PEACE LAB!_"
+  title : "CONCEPTUAL PEACE ART"
+  content0 : "I'm an engineering conceptual peace artist. My art fuses concepts from mathematics, physics, science, engineering, and applies them by analogy in an educational manner to better make sense of Human experience. I try to make this aesthetic and functional to liberate useful technical constructs to empower non-technical people to improve their lives in fun ways. I'm an advocate for universal peace."
+  content1 : "I'm inventing a time machine for peace, and I could use your help."
   content2 : "**This entity ( blairmunroakusa, LLC ) is licensed in the State of Alaska to conduct ANY LAWFUL business under primary NAICS code 711510: Independent Artists, Writers, and Performers.**"
-  content3 : "THE PURPOSE OF THIS ENTERPRISE IS TO ORCHESTRATE THE CONSTRUCTION OF THE WORLD'S LARGEST SUPERCOMPUTER."
-  content4 : "( a time machine )"
+  content3 : "THE PURPOSE OF THIS ENTERPRISE IS TO ORCHESTRATE THE INVENTION OF A TIME MACHINE FOR PEACE."
+  content4 : "( ie the world's largest supercomputer ~ The Universal Peace Computer )"
   button:
     enable : true
-    label : "Hi! ..."
-    link : "#feature"
+    label1 : "Explore!"
+    label2 : "Help!"
+    link1 : "#feature"
+    link2 : "https://help.blairmunroakusa.wp.computer"

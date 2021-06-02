@@ -516,7 +516,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 60px;
-  color: #57cbcc;
+  color: #FF33DD;
   text-transform: none;
   font-weight: 700;
   margin-bottom: 0px;
@@ -531,7 +531,7 @@ a:hover {
 
 .hero-area .block h2 {
   font-size: 30px;
-  color: #57cbcc;
+  color: #ff0015;
   text-transform: none;
   font-weight: 700;
   margin-bottom: 0px;
@@ -545,7 +545,7 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #FF33DD;
+  color: #FF9100;
   font-size: 15px;
   font-weight: bold;
   width: 100%;

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://blairmunroakusa.wp.computer/"
-title = "Meghna"
+title = "blairmunroakusa"
 theme = "meghna-hugo"
 themesDir = "themes"
 # post pagination

@@ -15,6 +15,19 @@
                 href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-8/"
                 />
   </url><url>
+    <loc>https://blairmunroakusa.wp.computer/fr/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blairmunroakusa.wp.computer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blairmunroakusa.wp.computer/fr/"
+                />
+  </url><url>
     <loc>https://blairmunroakusa.wp.computer/fr/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
@@ -39,19 +52,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://blairmunroakusa.wp.computer/fr/blog/installation/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/fr/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/"
                 />
   </url><url>
     <loc>https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-1/</loc>
