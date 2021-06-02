@@ -34,6 +34,11 @@ p {
   font-family: "Quattrocento Sans", sans-serif;
 }
 
+p1 {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+
 [scroll-behavior=smooth] {
   scroll-behavior: smooth;
 }
@@ -514,13 +519,13 @@ a:hover {
   color: #57cbcc;
   text-transform: none;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
     font-size: 40px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
   }
 }
 
@@ -529,7 +534,7 @@ a:hover {
   color: #57cbcc;
   text-transform: none;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 @media (max-width: 480px) {
@@ -540,12 +545,21 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #ff0015;
+  color: #FF33DD;
   font-size: 15px;
   font-weight: bold;
   width: 100%;
   margin: 0 auto;
 }
+
+.hero-area .block p1 {
+  color: #FF33DD;
+  font-size: 10px;
+  font-weight: bold;
+  width: 100%;
+  margin: 0 auto;
+}
+
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;

@@ -3,25 +3,36 @@ feature:
   enable : true
   image : images/about/portraitcollage.jpg
   image_webp : images/about/portraitcollage.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : "... I'm Blair."
+  content0 : "I spend all my time creating a theory of reality to explain and predict Human experience and behavior exclusively in terms of **time**. I want to create a new language that can help us solve the [**Hard Problem of Consciousness**](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness). I want to make it easier for anybody to make more productive sense of this infinitely complex thing we're a part of that we call 'life'."
+  content1 : "My art is CRUDE and UNREFINED. Conceptual art is a form that places the underlying ideas and concepts above medium and aesthetic refinement. I am first and foremost, trying to communicate complex ideas for the purpose of collaboration en masse."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : "WHO"
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : "My only absolute label is my name. I'm Blair. I own myself. I'm always working, and I'm always playing. I live in my own world, and I take frequent vacations to visit other people's worlds; it keeps life fresh. I love sharing and helping. I am a child at soul, and no I do not plan on growing up."
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "WHY"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "Once I discovered that to meet my needs and wants, I must foster multiple personalities. To accomplish this, I realized I need to invent a time machine. What my time machine does is it allows me to maintain constant communication with the people I need, when I need them most. I need the people in my life---both living, passed, and future---as much as I need my various selves."
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "HOW"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "The time machine I invented is called a 'world piece computer'. I use mine to navigate 'timespace', and my journey is filled with vital experience from the people I observe and interact with. From them, I learn lessons that help direct my present world toward the best future I can find. This establishes what I call my 'world peace process', thus the principle I value most is that 'peace is a process, not a result'. I enjoy my life by building and operating my world piece computer, and over time this became my deliberate addiction. For the pragmatists, a world piece computer produces a world-specific universal language as a byproduct. This is because worlds overlap, and to ensure peace in a world, individual world piece computers must form networks to maintain the world peace process within intersecting regions."
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : "WHAT"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "My ambition is to create a physical theory of reality that explains our conscious experience exclusively in terms of time---as an evolving blob of stuff. My mission is to accelerate the technological advent of world peace. Inventing a time machine is the only life-strategy I could come up with that I believe is capable of achieving and accomplishing my ambition and mission. The outcome will be a single network of world piece computers, all sharing a single peace process. This network will be an effective supercomputer formed by interconnected Human brains. By definition, there will be only one supercomputer: The Universal Peace Computer."
+
+      # feature item loop
+    - title : "WHERE"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "---Any place."
+
+      # feature item loop
+    - title : "WHEN"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "---Any time."

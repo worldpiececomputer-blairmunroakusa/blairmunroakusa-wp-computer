@@ -15,6 +15,20 @@
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
+# spotify playlist embed #
+						<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+				<div class="block">
+				<!--	<div class="icon-box">
+						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
+				</div> -->
+					{{"<!-- Express About Yourself -->" | safeHTML}}
+						<div class="content text-center">
+							<h3><a href="posts/inventedatimemachine.md" target="_blank">{{ .title }}</a></h3>
+						<p><iframe src="https://open.spotify.com/embed/playlist/7IYJiee8JbX2LVLLm6VZ3V" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+						<a href="{{ .address }}" target="_blank">{{ .link }}</a>
+					</div>
+				</div>
+			</div>
 
 			{{ range .about_item }}
 			{{"<!-- About item -->" | safeHTML}}

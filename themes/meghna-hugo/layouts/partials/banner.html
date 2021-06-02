@@ -8,15 +8,15 @@
 	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
 
 	<div class="block">
-		{{ if .icon }}
+		<!--{{ if .icon }}
 		<div class="video-button">
 			<i class="{{ .icon }}"></i>
 		</div>
-		{{ end }}
+		{{ end }}-->
 		<h1>{{ .title | markdownify }}</h1>
-		<p>{{ .content0 }} </p>
+		<p>{{ .content0 | markdownify }} </p>
 		<h2>{{ .content1 | markdownify }}</h2>
-		<p>{{ .content2 | markdownify }}</p>
+		<p1>{{ .content2 | markdownify }}</p1>
 		<p>{{ .content3 }}</p>
 		<p>{{ .content4 }}</p>
 		{{ if .button.enable }}
