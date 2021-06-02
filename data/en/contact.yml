@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Me!
+  title : Contact !
   subtitle : Contact Protocols
-  content : "I am a very busy body, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please abide by the following protocols:"  
+  content : "I am a very busy bee, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please " 
 
   # Contact details
   contact_list:
@@ -11,7 +11,7 @@ contact:
       info : "Anchorage, Alaska, USA, Planet Earth, Solar System, Orion–Cygnus Arm, Milky Way Galaxy, The Local Group, The Visible Universe"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: "
       
     #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
     #  info : "Fax: +880-31-000-000"
