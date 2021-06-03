@@ -43,34 +43,34 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "introduction"
+url = "#feature"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "splash!"
+url = "#"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "tidbits"
+url = "#about"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "team"
+#url = "#team"
+#weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
 
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
@@ -128,8 +128,8 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "website for Blair Munro, blairmunroakusa, LLC"
+author = "Blair Munro"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -137,7 +137,7 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 
 # cookies
@@ -156,7 +156,7 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/blairmunroakusa/"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
