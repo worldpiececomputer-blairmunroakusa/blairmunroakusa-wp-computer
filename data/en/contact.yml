@@ -8,21 +8,21 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Anchorage, Alaska, USA, Planet Earth, Solar System, Orion–Cygnus Arm, Milky Way Galaxy, The Local Group, The Visible Universe"
+      info : "Anchorage, Alaska, USA, Planet Earth, Solar System, Orion–Cygnus Arm, Milky Way Galaxy, The Local Group, The Visible Universe (...just in case you aren't from here...)"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: "
+      info : "Phone: 907-297-9901"
       
     #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
     #  info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: blairmunroakusa@wp.computer"
 
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
