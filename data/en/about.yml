@@ -1,7 +1,7 @@
 ############################ About ###################################
 about:
   enable : true
-  title : ... I'm
+  title : I'm ...
   about_item :
   - icon : 
     title : "Inventing a time machine"

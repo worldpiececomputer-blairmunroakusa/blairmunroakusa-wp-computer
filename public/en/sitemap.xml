@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-8/"
-                />
-  </url><url>
     <loc>https://blairmunroakusa.wp.computer/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://blairmunroakusa.wp.computer/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -41,109 +28,11 @@
                 href="https://blairmunroakusa.wp.computer/blog/"
                 />
   </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/installation/"
-                />
+    <loc>https://blairmunroakusa.wp.computer/blog/upc/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-1/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-2/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-3/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-4/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-5/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-6/"
-                />
-  </url><url>
-    <loc>https://blairmunroakusa.wp.computer/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blairmunroakusa.wp.computer/fr/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blairmunroakusa.wp.computer/blog/simple-blog-post-7/"
-                />
+    <loc>https://blairmunroakusa.wp.computer/blog/wpc/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blairmunroakusa.wp.computer/author/</loc>
     <xhtml:link
