@@ -11,7 +11,7 @@ banner:
   content3 : "THIS ENTERPRISE WAS FOUNDED TO INVENT A TIME MACHINE FOR PEACE."
   content4 : "( or the world's largest supercomputer ~ The Universal Peace Computer )"
   button:
-    enable : true
+    enable : false
     label1 : "Explore!"
     label2 : "Help!"
     link1 : "#feature"
