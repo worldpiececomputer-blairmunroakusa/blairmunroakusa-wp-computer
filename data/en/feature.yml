@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/portraitcollage.jpg
-  image_webp : images/about/portraitcollage.webp
+  image : images/about/portraitcollage2.jpg
+  image_webp : images/about/portraitcollage2.webp
   title : "Hi! I'm Blair."
   content000 : "**OVERVIEW**"
   content00 : "All I want to do is make new and better life with people."
@@ -15,7 +15,7 @@ feature:
   content11 : "The theme I want to emphasize is **world peace**. I think that to solve our hardest problems, we definitely need to figure out how to work together to solve them. No matter what the problem is, if we can't figure out how to cooperate as a species, then we are doomed to fail. World peace is a super loaded term though, and the Kumbaya version that people often think of is extremely unrealistic. This is why I coined the term '**universal peace**'. Because worlds vary so much within the universe of Human beings, it makes more sense to think about peace in terms of how we can link worlds together in more peaceful ways."
   content12 : "So my conceptual peace art is to invent a big way to tackle the problem of understanding our experience in terms of time, and to do so in a strictly inclusive way that allows us to connect our worlds together to communicate and come up with ways to make new and better life with everyone involved."
 
-  content5ws : "**MY 5 Ws**"
+  content5ws : "**MY 6 Ws**"
   feature_item : 
       # feature item loop
     - title : "WHO"
