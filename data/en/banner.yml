@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/powerlineclouds.webp"
   bg_image : "images/backgrounds/powerlineclouds.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title :
+  title : "TEST TITLE"
   content0 : 
   content2 :
   content3 :
