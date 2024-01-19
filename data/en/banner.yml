@@ -4,11 +4,11 @@ banner:
   bg_image_webp : "images/backgrounds/powerlineclouds.webp"
   bg_image : "images/backgrounds/powerlineclouds.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "TEST TITLE"
-  content0 : 
+  title : "WELCOME TO MY WORLD PIECE COMPUTER"
+  content0 : "(the online instance of)"
   content2 :
   content3 :
-  content4 :
+  content4 : 
   button:
     enable : false
     label1 : "Explore!"
